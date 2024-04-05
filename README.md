@@ -15,8 +15,8 @@ Hi there! I'm Oscar Fuentes, a passionate self-taught developer. I love diving i
 ## Contact Me
 
 - GitHub: [panrosk](https://github.com/panrosk)
-- Email: [Your email address](mailto:work@oscarfuentes.xyz)
-- LinkedIn: [Your LinkedIn profile link](https://www.linkedin.com/in/oscararmandofuentes/)
+- Email: [work@oscarfuentes.xyz](mailto:work@oscarfuentes.xyz)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/oscararmandofuentes/)
 
 I'm always open to collaboration and new opportunities, so don't hesitate to reach out!
 
