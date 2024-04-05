@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**panrosk/panrosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Que xopa!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! I'm Oscar Fuentes, a passionate self-taught developer. I love diving into the world of programming and creating meaningful projects. My journey into software development has been a fascinating one, filled with learning, challenges, and countless "aha" moments.
+
+## Skills
+
+- Programming Languages: python, js/ts, rust, elixir. 
+- Frameworks and Technologies: nodejs,express,react,nextjs, svelte, sveltekit, gsap, threejs.
+- Tools: nvim (which i lover)
+
+
+## Contact Me
+
+- GitHub: [panrosk](https://github.com/panrosk)
+- Email: [Your email address](mailto:work@oscarfuentes.xyz)
+- LinkedIn: [Your LinkedIn profile link](https://www.linkedin.com/in/oscararmandofuentes/)
+
+I'm always open to collaboration and new opportunities, so don't hesitate to reach out!
+
+Check out my pinned projects
