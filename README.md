@@ -9,7 +9,7 @@ Hi there! I'm Oscar Fuentes, a passionate self-taught developer. I love diving i
 
 - Programming Languages: python, js/ts, rust, elixir. 
 - Frameworks and Technologies: nodejs,express,react,nextjs, svelte, sveltekit, gsap, threejs.
-- Tools: nvim (which i lover)
+- Tools: nvim (which i love)
 
 
 ## Contact Me
