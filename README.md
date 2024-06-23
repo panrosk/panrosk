@@ -7,7 +7,7 @@ Hi there! I'm Oscar Fuentes, a passionate self-taught developer. I love diving i
 
 ## Skills
 
-- Programming Languages: python, js/ts, rust, elixir. 
+- Programming Languages: python, js/ts, elixir. 
 - Frameworks and Technologies: nodejs,express,react,nextjs, svelte, sveltekit, gsap, threejs.
 - Tools: nvim (which i love)
 
