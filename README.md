@@ -3,11 +3,11 @@ Que xopa!
 
 ## About Me
 
-Hi there! I'm Oscar Fuentes, a passionate self-taught developer. I love diving into the world of programming and creating meaningful projects. My journey into software development has been a fascinating one, filled with learning, challenges, and countless "aha" moments.
+Hi there! I'm Oscar Fuentes, a passionate self-taught developer. I love diving into the world of programming and creating meaningful projects. 
 
 ## Skills
 
-- Programming Languages: python, js/ts, elixir. 
+- Programming Languages: python, js/ts, rust. 
 - Frameworks and Technologies: nodejs,express,react,nextjs, svelte, sveltekit, gsap, threejs.
 - Tools: nvim (which i love)
 
